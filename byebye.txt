@@ -1,2 +1,6 @@
 Salut l'Italien mamamia
+<<<<<<< HEAD
 J'aime la cuisine italienne
+=======
+Salut, bientôt à Milan ahah
+>>>>>>> 20135239723a775c86055f1e933f24826ae54de5
